@@ -5,11 +5,17 @@ Hi! I'm a Computer Science and Physics student at the Rochester Institute of Tec
 ## Contact
 Email: <coleglasgow13@gmail.com>&nbsp;&nbsp;&nbsp;|||&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/cole-glasgow-41301/)
 
+___
+
 # [Stock Analysis Application](https://coltonglasgow13.github.io/goose-stock "goose-stock") (work in progress)
+
+___
 
 # [Data-Driven Collectible Resale Business](https://coltonglasgow13.github.io/mtg_goose "mtg-goose") (ended Feb 2021)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My previous project collected limited amounts of data about collectible card prices, but I wanted a system that would provide all the data I could want in terms of investment and resale decisions. Therefore, I developed an application to scrape data from a variety of sources and store it in a remotely hosted relational database, where I then used it for analysis and visualization. Through the support of this application, I have been able to sustain my collectible resale business (Household Gaming) for years by making data-driven decisions and building my understanding of the market from the bottom up.
+
+___
 
 # [Collectible Card Data Automation](https://coltonglasgow13.github.io/mtg-python-public "mtg-python-public") (ended May 2020)
 
